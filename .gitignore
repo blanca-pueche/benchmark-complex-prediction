@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+logs/
+
+# Scipion
+ScipionUserData/
+scipion_projects/
+*.sqlite
+*.sqlite3
+
+# Benchmark execution outputs
+benchmark_status.tsv
+benchmark_status.txt
+
+# Prediction outputs
+af3_predictions/
+predictions/
+predicted_structures/
+model_outputs/
+
+# Large intermediate files
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Generated analysis outputs
+analysis/*/figures/
+analysis/*/tables/
+analysis/*/plots/
+analysis/*/heatmaps/
+analysis/*/residue_plots/
+
+# Temporary analysis directories
+analysis/03_statistics/
+analysis/06_extreme_cases/
+
+# Local machine-specific files
+*.local
+config.local.*

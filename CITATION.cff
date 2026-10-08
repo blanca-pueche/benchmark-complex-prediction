@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Benchmarking AI-based prediction of biomolecular complex structures across diverse molecular interactions"
+message: "If you use this repository, benchmark dataset, or analysis code, please cite this work."
+
+type: software
+
+authors:
+  - family-names: "Pueche-Granados"
+    given-names: "Blanca"
+  - family-names: "Sorzano"
+    given-names: "Carlos Oscar S."
+
+abstract: >
+  Benchmark dataset, prediction workflow, and analysis scripts for evaluating
+  AI-based prediction of biomolecular complex structures across diverse
+  molecular interaction types.
+
+repository-code: "https://github.com/blanca-pueche/benchmark-complex-prediction"
+
+license: MIT
+
+keywords:
+  - structural bioinformatics
+  - protein structure prediction
+  - biomolecular complexes
+  - AlphaFold 3
+  - Boltz-2
+  - Chai
+  - Protenix
+  - IntelliFold
+  - benchmarking
+  - molecular structure
