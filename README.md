@@ -405,7 +405,7 @@ If you use this benchmark dataset, code, or analysis workflow, please cite:
 
 The repository citation metadata is provided in `CITATION.cff`.
 
-Once the repository has been archived through Zenodo, the DOI will also be provided here.
+The archived repository is available through Zenodo: [![DOI](https://zenodo.org/badge/1410204713.svg)](https://doi.org/10.5281/zenodo.23237784).
 
 ## Contact
 
