@@ -7,8 +7,6 @@ type: software
 authors:
   - family-names: "Pueche-Granados"
     given-names: "Blanca"
-  - family-names: "Sorzano"
-    given-names: "Carlos Oscar S."
 
 abstract: >
   Benchmark dataset, prediction workflow, and analysis scripts for evaluating
