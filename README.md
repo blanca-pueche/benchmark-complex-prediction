@@ -320,7 +320,7 @@ The extreme-case analysis identifies benchmark structures showing large disagree
 
 It can be run using:
 
-    python analysis/extreme_case_analysis.py \
+    python analysis/06_extreme_case_analysis.py \
         --input <benchmark_dataset.csv> \
         --scipion-projects <scipion_projects_directory> \
         --output-dir <output_directory>
