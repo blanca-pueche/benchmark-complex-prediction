@@ -411,3 +411,7 @@ The archived repository is available through Zenodo: [![DOI](https://zenodo.org/
 
 For questions, suggestions, or issues related to the benchmark or repository, please open an issue in this repository.
 
+## Supplementary material
+
+Supplementary figures and tables supporting the benchmark results are available in the `supplementary/` directory. These files provide additional visualizations and detailed numerical results complementary to the main manuscript.
+
